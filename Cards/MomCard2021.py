@@ -61,7 +61,7 @@ def soundPrism():
     prismPen.forward(-5)
     prismPen.left(20)
     prismPen.forward(10)
-    prismPen.pensize(6)
+    prismPen.pensize(7)
 
     prismPen.down()
     prismPen.forward(130)
@@ -69,12 +69,12 @@ def soundPrism():
     prismPen.left(40)
     prismPen.forward(60)
     prismPen.right(120)
-    prismPen.forward(135)
+    prismPen.forward(165)
     prismPen.right(120)
-    prismPen.forward(135)
+    prismPen.forward(165)
     prismPen.right(120)
 
-    prismPen.forward(70)
+    prismPen.forward(100)
     prismPen.pensize(3)
     prismPen.right(34)
     prismPen.penup()
@@ -100,7 +100,7 @@ def soundPrism():
     prismPen.forward(45)
 
     # Red
-    prismPen.pensize(10)
+    prismPen.pensize(9)
     prismPen.color("#ff0000")
     prismPen.left(52)
     prismPen.penup()
@@ -109,21 +109,21 @@ def soundPrism():
     prismPen.forward(150)
     prismPen.forward(-150)
     prismPen.right(90)
-    prismPen.forward(5.5)
-    prismPen.left(88.5)
+    prismPen.forward(6)
+    prismPen.left(88.8)
     prismPen.penup()
-    prismPen.forward(3)
+    prismPen.forward(4)
     prismPen.down()
 
     # Orange
     prismPen.color("#ff6600")
-    prismPen.forward(148)
-    prismPen.forward(-148)
+    prismPen.forward(147)
+    prismPen.forward(-147)
     prismPen.right(90)
-    prismPen.forward(6)
-    prismPen.left(88.5)
+    prismPen.forward(6.5)
+    prismPen.left(89.2)
     prismPen.penup()
-    prismPen.forward(3)
+    prismPen.forward(4)
     prismPen.down()
 
     # Yellow
@@ -132,50 +132,50 @@ def soundPrism():
     prismPen.forward(-146)
     prismPen.right(90)
     prismPen.forward(6.5)
-    prismPen.left(88.9)
+    prismPen.left(89.1)
     prismPen.penup()
-    prismPen.forward(3.5)
+    prismPen.forward(4.5)
     prismPen.down()
 
     # Green
     prismPen.color("#4dff4d")
-    prismPen.forward(144)
-    prismPen.forward(-144)
+    prismPen.forward(145)
+    prismPen.forward(-145)
     prismPen.right(90)
     prismPen.forward(6.8)
-    prismPen.left(89)
+    prismPen.left(89.2)
     prismPen.penup()
-    prismPen.forward(3.5)
+    prismPen.forward(4.5)
     prismPen.down()
 
     # Blue
     prismPen.color("#1a8cff")
-    prismPen.forward(141.5)
-    prismPen.forward(-141.5)
+    prismPen.forward(142.5)
+    prismPen.forward(-142.5)
     prismPen.right(90)
-    prismPen.forward(4)
+    prismPen.forward(5)
     prismPen.color("#bf80ff")
-    prismPen.forward(2.6)
+    prismPen.forward(1.6)
     prismPen.left(89)
     prismPen.penup()
-    prismPen.forward(3.5)
+    prismPen.forward(6.0)
     prismPen.down()
 
     # Purple
     prismPen.color("#bf80ff")
-    prismPen.forward(140)
+    prismPen.forward(135.5)
 
     # "Cut"
     prismPen.pensize(6)
     prismPen.color("#000000")
     prismPen.penup()
-    prismPen.forward(6.2)
+    prismPen.forward(5)
     prismPen.down()
     prismPen.left(97)
     prismPen.forward(-10)
     for i in range(6):
         prismPen.forward(12)
-        prismPen.left(3)
+        prismPen.left(3.3)
 
 
 
