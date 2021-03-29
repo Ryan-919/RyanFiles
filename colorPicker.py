@@ -43,18 +43,42 @@ def graph():
 
 
 
-def colors(x, y):
+def colors(y, r, g, b, m):
+    turtle.colormode(255)
     color = turtle.Turtle()
+    # color.showturtle()
+    color.speed(10)
     color.penup()
-    color.backward(x)
+    color.backward(310)
     color.left(90)
-    color.forward(y)
-    color.right(90)
+    color.forward(300)
+    color.right(180)
+    color.forward(60*y)
+    color.left(90)
+    color.down()
+    for i in range(10):
+        multiplier = m*(i+1)
+        color.color(multiplier*r, multiplier*g, multiplier*b)
+        color.begin_fill()
+        for i in range(4):
+            color.forward(60)
+            color.left(90)
+        color.end_fill()
+        color.forward(60)
+    color.hideturtle()
+
 
 
 graph()
-colors(300, 300)
-
+colors(1, 5, 0, 0, 5)
+colors(2, 5, 2, 0, 5)
+colors(3, 5, 5, 0, 5)
+# colors(4, 2, 5, 1, 5)
+colors(4, 0, 5, 0, 5)
+colors(5, 1, 3, 5, 5)
+colors(6, 0, 0, 5, 5)
+colors(7, 1, 0, 5, 5)
+colors(10, 1, 1, 1, 25)
 
 
 wn.mainloop()
