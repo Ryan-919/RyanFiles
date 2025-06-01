@@ -1,0 +1,8 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Things",
+  "accentColor": "#488989",
+  "enabledCssSnippets": [
+    "styles"
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "59040afbccac1f0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "865de12b35b3ffb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4df4d4155917327",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Acid Base Equilibrium FRQ.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Acid Base Equilibrium FRQ"
+            }
+          },
+          {
+            "id": "1b321d269ae82f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous Math.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Miscellaneous Math"
+            }
+          },
+          {
+            "id": "bfdd22f74c41462d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Significance Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Significance Test"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a250f356131111a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9383654e37d1d08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcc451ca44502df5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2855b930ecec5b8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "73b10402fb935389",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 449.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c7dc45059a3db439",
+    "type": "split",
+    "children": [
+      {
+        "id": "17899c935458eb80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3077377bd5556d7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Miscellaneous Math.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Miscellaneous Math"
+            }
+          },
+          {
+            "id": "102dafc75d330705",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Miscellaneous Math.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Miscellaneous Math"
+            }
+          },
+          {
+            "id": "b80da9bc99611efa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "67cce88b94a62dbb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Miscellaneous Math.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Miscellaneous Math"
+            }
+          },
+          {
+            "id": "eb34eea65811e418",
+            "type": "leaf",
+            "state": {
+              "type": "periodic-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Periodic table"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 413.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "bfdd22f74c41462d",
+  "lastOpenFiles": [
+    "Miscellaneous Math.md",
+    "Significance Test.md",
+    "Excalidraw/Acid Base Equilibrium FRQ.md",
+    "Excalidraw/Drawing 2025-05-20 10.25.41.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-13 12.29.40.excalidraw.md",
+    "about me.md",
+    "Excalidraw/attachments/invertedChemEquationSheet.pdf",
+    "Excalidraw/Calculus III Final Exam Review.md",
+    "4 - AP Chemistry/Unit 9 - Electrochemistry/Standard Cell Potential.md",
+    "Excalidraw/Drawing 2025-05-03 20.28.01.excalidraw.md",
+    "Untitled.md",
+    "4 - AP Chemistry/Unit 9 - Electrochemistry/GalvanicCellDiagram.md",
+    "4 - AP Chemistry/Unit 9 - Electrochemistry/Galvanic (Voltaic) Cells.md",
+    "Math for Calculus III Final Review.md",
+    "Excalidraw/attachments/MAT273-Final-Review (PDF).pdf",
+    "Surface Integrals HW.md",
+    "WIMP Collision Problem.md",
+    "Multiple Integrals Review.md",
+    "Math for Unit 4 Review.md",
+    "Lab.md",
+    "FRQ Pendulum.md",
+    "AP STAT QUESTION.md",
+    "Excalidraw/Integrated Kinetics Review FRQs.md",
+    "AP Chem Review Math.md",
+    "Excalidraw/helpingCollinWithPhysics.md",
+    "Excalidraw/Drawing 2025-04-28 19.52.36.excalidraw.md",
+    "Excalidraw/attachments/inverted2007FRQAcidBase.pdf",
+    "Excalidraw/attachments/inverted2005FRQAcidBase.pdf",
+    "Excalidraw/attachments/invertedSuperProblemAcidBase.pdf",
+    "Excalidraw/attachments/invert_pdf_colors.pdf",
+    "Excalidraw/attachments/Drawing 2025-04-30 18.07.22.excalidraw.md",
+    "Excalidraw/Equilibrium MCQ Practice.md",
+    "Excalidraw/attachments/inverted2010FRQEquilibrium.pdf",
+    "Excalidraw/attachments/inverted2003FormBEquilibriumFRQ.pdf",
+    "Excalidraw/attachments/bleh.pdf",
+    "Excalidraw/attachments/generalEquilibriumSuperProblem.pdf",
+    "Excalidraw/attachments/Pasted Image 20250429170535_277.png",
+    "Excalidraw/attachments/Pasted Image 20250428224942_555.png",
+    "4 - AP Chemistry/Review/Unit 1-3/Attempted/Partially Answered Chapter 3.png",
+    "4 - AP Chemistry/Review/Unit 1-3/Attempted/Atomic Structure FRQ.png",
+    "4 - AP Chemistry/Review/Unit 1-3/Attempted/Bonding FRQ.png",
+    "4 - AP Chemistry/Review/Unit 1-3/Attempted/Bonding and Phases MCQ Practice.png",
+    "4 - AP Chemistry/Unit 6 - Thermodynamics/Images/Thermo Problem 1.png",
+    "4 - AP Chemistry/Unit 6 - Thermodynamics/Images/Enthalpy Problem 1.png",
+    "4 - AP Chemistry/Unit 6 - Thermodynamics/Images/Average Bond Dissociation Energies.png",
+    "Pasted Image 20250104142813_447.png",
+    "Untitled.canvas"
+  ]
+}
